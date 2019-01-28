@@ -8,11 +8,11 @@ This repo contains code and conducts a basic network analysis on [Marvel Superhe
 
 ## Getting Started
 
-To see the analysis, go to python notebook file on GitHub.
+To see the notebook on GitHub, view the HTML file.   The notebook is also available as a [kernel on Kaggle](https://www.kaggle.com/jackhart0508/basic-marvel-network-analysis).
 
 #### Run Locally
 
-Jupyter notebooks can be run easily through the Anaconda Prompt.  Move to the directory containing the notebook and run the following. 
+Jupyter notebooks can be easily accessed through the Anaconda Prompt.  Move to the directory containing the notebook and datasets, then run the following.
 
 ```
 jupyter notebook marvelNetwork.ipynb
